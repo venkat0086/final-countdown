@@ -1,0 +1,32 @@
+{
+  "teachers": [
+    {
+      "name": "Venkat",
+      "age": "23",
+      "gender": "Male",
+      "classSec": [
+        {
+          "id": 0.2820958700256597,
+          "grade": "5th",
+          "section": "B",
+          "subject": "Social"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Sum",
+      "age": "25",
+      "gender": "Female",
+      "classSec": [
+        {
+          "id": 0.7430337432581917,
+          "grade": "6Th grade",
+          "section": "c section",
+          "subject": "Sceince"
+        }
+      ],
+      "id": 2
+    }
+  ]
+}

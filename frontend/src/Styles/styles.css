@@ -1,0 +1,72 @@
+.nav-bar-main {
+  display: flex;
+  width: 95%;
+  margin: auto;
+  justify-content: space-evenly;
+  margin-bottom: 20px;
+  border: 1px solid red;
+  padding: 5px;
+  font-size: 20px;
+}
+
+.login-form {
+  width: 25%;
+  margin: auto;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.login-form > input {
+  width: 50%;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.login-form > button {
+  padding: 10px 40px;
+  border-radius: 5px;
+  border: 0;
+  border: 1px solid grey;
+  background-color: dodgerblue;
+  font-size: 18px;
+}
+.login-form > button:hover {
+  border: 1px solid dodgerblue;
+  background-color: white;
+  cursor: pointer;
+}
+
+.sort-filter-main {
+  display: flex;
+  width: 90%;
+  margin: auto;
+  justify-content: space-between;
+  font-size: 18px;
+}
+.main-contain button,
+.btn {
+  padding: 5px 15px;
+  margin: 8px;
+  background-color: dodgerblue;
+  border: 0;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+.main-contain button:hover,
+.btn:hover {
+  cursor: pointer;
+  border: 1px solid dodgerblue;
+  background-color: white;
+}
+
+.teacher-Details {
+  border: 1px solid red;
+  width: 20%;
+  margin: auto;
+  font-size: 23px;
+}
+
+.main_container input {
+  padding: 10px 20px;
+  margin: 10px;
+}
